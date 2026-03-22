@@ -9,34 +9,16 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [API Reference](#api-reference)
-- [File Format](#file-format)
-- [How It Works](#how-it-works)
-- [Performance](#performance)
-- [Examples](#examples)
-- [Integration](#integration)
-- [Limitations](#limitations)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## 🌟 Overview
 
-**CLAC** (Custom Lossless Audio Codec) is a pure Python implementation of a lossless audio compression algorithm. It's designed to be:
+**CLAC** (Cole's Lossless Audio Codec) is a pure Python implementation of a lossless audio compression algorithm. It's designed to be:
 
 - **Simple** - Easy to understand and modify
 - **Educational** - Demonstrates compression principles
 - **Functional** - Actually works for real audio files
 - **Extensible** - Can be ported to other languages
 
-This is the **codec library only**. For a full GUI application, see [CLAC Studio](https://github.com/yourusername/clac-studio).
+This is the **codec library only**. For a full GUI application, see [CLAC Studio](https://github.com/clacstudios/clac-studio).
 
 ---
 
