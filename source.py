@@ -1,5 +1,5 @@
 """
-CLAC Codec - Custom Lossless Audio Codec
+CLAC Codec - Cole's Lossless Audio Codec
 Pure Python implementation
 """
 import wave
