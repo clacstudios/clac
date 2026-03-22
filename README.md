@@ -55,7 +55,7 @@ This is the **codec library only**. For a full GUI application, see [CLAC Studio
 ```bash
 # Clone or download
 git clone https://github.com/clacstudios/clac.git
-cd clac-codec
+cd clac
 
 # Copy to your project
-cp clac.py /your/project/
+cp source.py /your/project/
