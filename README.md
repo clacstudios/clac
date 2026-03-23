@@ -54,7 +54,7 @@ This is the **codec library only**. For a full GUI application, see [CLAC Studio
 
 ```bash
 # Clone or download
-git clone https://github.com/clacstudios/clac.git
+git clone https://github.com/clacstudios/clac/clac.git
 cd clac
 
 # Copy to your project
