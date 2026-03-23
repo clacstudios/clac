@@ -77,7 +77,7 @@ class BitStream:
 # CLAC CODEC (Main Compression Engine)
 # ================================
 class CLACCodec:
-    """Custom Lossless Audio Codec"""
+    """Cole's Lossless Audio Codec"""
     MAGIC = b'CLAC'
     HEADER_SIZE = 20
     BLOCK_SIZE = 4096
